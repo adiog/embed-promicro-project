@@ -7,11 +7,11 @@
 
 ## Pinout
 ![ProMicro pinout](https://raw.githubusercontent.com/adiog/embed-promicro-project/master/docs/pinout.png "ProMicro Pinout (png)")
-![ProMicro pinout](https://raw.githubusercontent.com/adiog/embed-promicro-project/master/docs/pinout-ProMicro16MHzv2.svg "ProMicro Pinout (svg)")
+[ProMicro pinout link (svg)](https://raw.githubusercontent.com/adiog/embed-promicro-project/master/docs/pinout-ProMicro16MHzv2.svg)
 [ProMicro Pinout link (pdf)](https://raw.githubusercontent.com/adiog/embed-promicro-project/master/docs/pinout-ProMicro16MHzv2.pdf)
 
 ## Schematic
 [ProMicro Schematic link (pdf)](https://raw.githubusercontent.com/adiog/embed-promicro-project/master/docs/schematic-Pro_Micro_v13b.pdf)
 
 ## ATMega32u4 Datasheet
-[ATMega32u4 Datasheet link (pdf)](https://raw.githubusercontent.com/adiog/embed-promicro-project/master/docs/datasheet-ATMega32u4.pdf)
+[ATMega32u4 Datasheet link (pdf)](https://raw.githubusercontent.com/adiog/embed-promicro-project/master/docs/datasheet-ATMega32U4.pdf)
